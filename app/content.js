@@ -1,4 +1,4 @@
 export const mainHero = {
-    h1: 'Plaats een SEO vriendelijke Hero tekst hier',
-    paragraaf: 'Plaats een SEO vriendelijke text die de H1 text ondersteunt hier',
+    h1: 'Effectieve Deur-tot-Deur Flyer Marketing Services',
+    paragraaf: 'Verhoog uw zichtbaarheid en trek nieuwe klanten aan met onze op maat gemaakte flyer distributiecampagnes, ontworpen om uw boodschap direct in de handen van uw doelgroep te leveren',
 };
